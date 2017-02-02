@@ -1,5 +1,5 @@
 {
-  "name": "integration-google-adwords",
+  "name": "@astronomerio/integration-google-adwords",
   "version": "2.3.0",
   "description": "Google AdWords server-side integration",
   "main": "lib/index.js",
