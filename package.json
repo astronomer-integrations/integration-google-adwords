@@ -1,5 +1,5 @@
 {
-  "name": "integration-google-adwords",
+  "name": "@astronomerio/integration-google-adwords",
   "version": "2.3.0",
   "description": "Google AdWords server-side integration",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
   "dependencies": {
     "@ndhoule/each": "^2.0.1",
     "batch": "^0.5.3",
-    "segmentio-integration": "^5.1.0"
+    "segmentio-integration": "5.1.0"
   },
   "devDependencies": {
     "@segment/eslint-config": "^3.4.0",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/segment-integrations/integration-google-adwords.git"
+    "url": "https://github.com/astronomer-integrations/integration-google-adwords.git"
   },
   "keywords": [
     "analytics",
@@ -36,10 +36,10 @@
     "google",
     "adwords"
   ],
-  "author": "Segment <friends@segment.com>",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/segment-integrations/integration-google-adwords/issues"
+    "url": "https://github.com/astronomer-integrations/integration-google-adwords/issues"
   },
-  "homepage": "https://github.com/segment-integrations/integration-google-adwords"
+  "homepage": "https://github.com/astronomer-integrations/integration-google-adwords"
 }
